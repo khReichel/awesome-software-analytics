@@ -93,6 +93,7 @@ Sites that collect various resources around Software Analytics topics:
 Activities that let you experience Software Analytics all by yourself.
 
 - [Matt Eland: Visualizing Code in Jupyter Notebooks with Pandas and Plotly (2022)](https://matteland.dev/talks/visualizingcode) - in this data analytics demo, Matt utilized Jupyter Notebook, Python, Plotly, and Pandas to analyze an open source game project. He also provides the dataset to get your own analysis started.
+- [Stephan Pirnbaum: software-analytics-starter (2021)](https://github.com/buschmais/software-analytics-starter): - a repository with many analyses in Jupyter Notebook using Neo4j (and of course) jQAssistant).
 - [Markus Harrer: Software Analytics Workshop (2019)](https://github.com/feststelltaste/software-analytics-workshop-guided) - a repository with a guided tour through first software analysis using Data Science approaches und tools.
 - [Markus Harrer: Software Analytics Katas (2021)](https://github.com/feststelltaste/software-analytics-katas) - small challenges designed to train analytical thinking and the use of data-driven software analysis techniques.
 
